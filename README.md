@@ -8,7 +8,7 @@ Web前端个人网站，网页个人网站模版，HTML&CSS&JS制作个人网站
 
 
 #### 在线预览
-[web前端个人网站：我的愿望是世界和平](http://117.72.115.233)
+[web前端个人网站：我的愿望是世界和平](https://unnaset.github.io/web1/)
 
 直接运行index.html文件
 
